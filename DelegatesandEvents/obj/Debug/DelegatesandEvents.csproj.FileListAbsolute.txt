@@ -1,0 +1,7 @@
+C:\Users\SadhaShivaSiddhanth\source\repos\DelegatesandEvents\DelegatesandEvents\bin\Debug\DelegatesandEvents.exe.config
+C:\Users\SadhaShivaSiddhanth\source\repos\DelegatesandEvents\DelegatesandEvents\bin\Debug\DelegatesandEvents.exe
+C:\Users\SadhaShivaSiddhanth\source\repos\DelegatesandEvents\DelegatesandEvents\bin\Debug\DelegatesandEvents.pdb
+C:\Users\SadhaShivaSiddhanth\source\repos\DelegatesandEvents\DelegatesandEvents\obj\Debug\DelegatesandEvents.csprojAssemblyReference.cache
+C:\Users\SadhaShivaSiddhanth\source\repos\DelegatesandEvents\DelegatesandEvents\obj\Debug\DelegatesandEvents.csproj.CoreCompileInputs.cache
+C:\Users\SadhaShivaSiddhanth\source\repos\DelegatesandEvents\DelegatesandEvents\obj\Debug\DelegatesandEvents.exe
+C:\Users\SadhaShivaSiddhanth\source\repos\DelegatesandEvents\DelegatesandEvents\obj\Debug\DelegatesandEvents.pdb
